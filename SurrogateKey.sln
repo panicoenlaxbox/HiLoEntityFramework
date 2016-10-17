@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurrogateKey", "SurrogateKey\SurrogateKey.csproj", "{D251F64B-B540-49EB-909B-334471944999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurrogateKey.Tests", "SurrogateKey.Tests\SurrogateKey.Tests.csproj", "{A875B9A3-8576-4595-8127-F46AFF27C0B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D251F64B-B540-49EB-909B-334471944999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D251F64B-B540-49EB-909B-334471944999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D251F64B-B540-49EB-909B-334471944999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D251F64B-B540-49EB-909B-334471944999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A875B9A3-8576-4595-8127-F46AFF27C0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A875B9A3-8576-4595-8127-F46AFF27C0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A875B9A3-8576-4595-8127-F46AFF27C0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A875B9A3-8576-4595-8127-F46AFF27C0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
